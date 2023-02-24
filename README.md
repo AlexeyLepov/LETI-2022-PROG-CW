@@ -1,3 +1,8 @@
+![](https://img.shields.io/tokei/lines/github.com/AlexeyLepov/LETI-2022-PROG-CW?style=for-the-badge)
+![CodeSize](https://img.shields.io/github/languages/code-size/AlexeyLepov/LETI-2022-PROG-CW?style=for-the-badge)
+![Repo](https://img.shields.io/github/repo-size/AlexeyLepov/LETI-2022-PROG-CW?style=for-the-badge)
+![LastCommint](https://img.shields.io/github/last-commit/AlexeyLepov/LETI-2022-PROG-CW?style=for-the-badge)
+
 # Разработка электронной картотеки // Development of an electronic filing cabinet
 
 Меню выбора действия // Action selection menu
